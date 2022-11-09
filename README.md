@@ -1,9 +1,9 @@
 # Linked list
 
-![img](https://github.com/GorokhovSemyon/OOP_Package_Analysis/blob/develop/materials/PNI_ENG.jpg)
+![img](https://github.com/GorokhovSemyon/Linked_list/blob/develop/materials/LL.png)
 
 ## About
-	The program is one of the possible implementations of a doubly linked list using templates, which allows you to use this implementation for previously unknown data types.
+    The program is one of the possible implementations of a doubly linked list using templates, which allows you to use this implementation for previously unknown data types.
 
 ## Implemented methods
 
