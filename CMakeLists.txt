@@ -1,8 +1,9 @@
-cmake_minimum_required(VERSION 3.21)
-project(Linked_lists)
+cmake_minimum_required(VERSION 3.16)
 
-set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g")
-set(SOURCES main.cpp Linked_list_operations.cpp Linked_list_operations.h)
+project(ft_containers)
 
-add_executable(Linked_lists ${SOURCES})
+set(CMAKE_CXX_STANDARD 11)
+
+include_directories(includes)
+
+add_executable(ft_containers srcs/main.cpp srcs/ll_tests.cpp)
