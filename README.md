@@ -1,4 +1,4 @@
-# Linked list
+# A doubly linked list.
 
 ![img](https://github.com/GorokhovSemyon/Linked_list/blob/develop/materials/LL.png)
 
